@@ -62,21 +62,9 @@ Hi, I'm 何柚可 (Hayoko), a passionate software developer with diverse profess
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #eaeaea;">
-        <a href="https://github.com/hayoko2006/example-repo-1" style="text-decoration: none; color: #36BCF7; font-weight: bold;">Example Repo 1</a>
+        <a href="https://github.com/hayoko2006/Fileupload" style="text-decoration: none; color: #36BCF7; font-weight: bold;">Fileupload</a>
       </td>
-      <td style="padding: 10px; border-bottom: 1px solid #eaeaea;">A sample project demonstrating [specific functionality or technology]</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #eaeaea;">
-        <a href="https://github.com/hayoko2006/example-repo-2" style="text-decoration: none; color: #36BCF7; font-weight: bold;">Example Repo 2</a>
-      </td>
-      <td style="padding: 10px; border-bottom: 1px solid #eaeaea;">A tool for [specific purpose or task]</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #eaeaea;">
-        <a href="https://github.com/hayoko2006/example-repo-3" style="text-decoration: none; color: #36BCF7; font-weight: bold;">Example Repo 3</a>
-      </td>
-      <td style="padding: 10px; border-bottom: 1px solid #eaeaea;">A library for [specific functionality]</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eaeaea;">An open-source PHP-based file upload system that can be used as a simple cloud storage or backup tool. Originally designed for internal company document scanning and archiving.</td>
     </tr>
   </table>
 </div>
@@ -89,6 +77,12 @@ Hi, I'm 何柚可 (Hayoko), a passionate software developer with diverse profess
   </a>
   <a href="mailto:hayoko@hayoko.cn" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://hayoko.cn" target="_blank">
+    <img src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://blog.hayoko.cn" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
 </div>
 
