@@ -10,7 +10,7 @@
 
 ## 📝 About Me
 
-Hi, I'm 何柚可 (Hayoko), a passionate software developer with diverse professional background in hotel management, sales, and internet operations. I'm a member of the FreeBSD Chinese community and enjoy contributing to open source projects. My interests include computer science, medicine, and American TV shows.
+Hi, I'm 何柚可 (Hayoko), a passionate open-source software developer with diverse professional background in hotel management, sales, and internet operations. I'm a member of the FreeBSD Chinese community and enjoy contributing to open source projects. My interests include computer science, medicine, and American TV shows.
 
 - 🔭 Currently working on: Web development projects and exploring AI applications
 - 🌱 Learning: Node.js and AI technologies
