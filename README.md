@@ -1,97 +1,83 @@
-# 🌟 Welcome to hayoko2006's GitHub Profile! 🌟
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!%20I'm%20hayoko2006&center=true&size=27&color=36BCF7" />
-  
-  <br />
-  
-  <img src="https://visitor-badge.glitch.me/badge?page_id=hayoko2006.hayoko2006" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=hayoko2006&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=4a5568&icon_color=3182ce&bg_color=transparent&include_all_commits=true" />
+
 </div>
 
-## 📝 About Me
+## Hi, I'm 何柚可 (Hayoko)
 
-Hi, I'm 何柚可 (Hayoko), a passionate open-source software developer with diverse professional background in hotel management, sales, and internet operations. I'm a member of the FreeBSD Chinese community and enjoy contributing to open source projects. My interests include computer science, medicine, and American TV shows.
+开源爱好者，FreeBSD 中文社区成员。从前端开发到服务器运维，用技术解决实际问题。热爱 FreeBSD、Web 开发和开源生态。
 
-- 🔭 Currently working on: Web development projects and exploring AI applications
-- 🌱 Learning: Node.js and AI technologies
-- 👯 Looking to collaborate on: Open source projects, especially those related to FreeBSD or web development
-- 📫 How to reach me: hayoko@hayoko.cn
-- 💬 Ask me about: Web development, FreeBSD, hotel management, sales strategies, or my favorite TV shows
-- ⚡ Fun fact: With my diverse background, I bring unique perspectives to tech solutions that bridge business and technology
+- 🔭 目前在做 Web 开发项目，探索 AI 应用
+- 🌱 正在学习 Node.js 与 AI 技术
+- 👯 欢迎在 FreeBSD、Web 开发相关开源项目上协作
 
-## 📊 GitHub Stats
+## 🚀 我在做什么
+
+<!-- markdownlint-disable MD033 -->
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔧 hayoko-manual</h3>
+      <p>柚可万能机使用说明书 — 高速直球版人类设备的产品文档</p>
+      <a href="https://github.com/hayoko2006/hayoko-manual">查看项目 →</a>
+    </td>
+    <td width="50%">
+      <h3>🔗 TinyTool</h3>
+      <p>一条命令运维 Linux 的 Shell 工具集</p>
+      <a href="https://github.com/hayoko2006/TinyTool">查看项目 →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📦 Fileupload</h3>
+      <p>PHP 文件上传系统，可用作轻量云存储或备份工具</p>
+      <a href="https://github.com/hayoko2006/Fileupload">查看项目 →</a>
+    </td>
+    <td width="50%">
+      <h3>📋 blog-hayoko</h3>
+      <p>个人博客项目</p>
+      <a href="https://github.com/hayoko2006/blog-hayoko">查看项目 →</a>
+    </td>
+  </tr>
+</table>
+
+## 🛠 技术栈
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-89E051?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+## 📊 贡献热力图
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=hayoko2006&hide_title=false&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=36BCF7&bg_color=ffffff" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayoko2006&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=36BCF7&bg_color=ffffff" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hayoko2006&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=transparent&stroke=3182ce&fire=e53e3e&currStreakNum=2d3748&sideNums=2d3748&currStreakLabel=3182ce&sideLabels=718096&dates=718096" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayoko2006&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=ffffff&stroke=36BCF7&fire=36BCF7&currStreakNum=000&sideNums=000&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=000" />
-</div>
+## 🌐 找到我
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hayoko2006&theme=flat&column=7" />
-</div>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=hayoko2006&theme=github" />
-</div>
-
-## 🛠️ Technical Skills
-
-<div align="center">
-  <span>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-FreeBSD-7E1C14?style=flat-square&logo=freebsd&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </span>
-</div>
-
-## 📁 Featured Repositories
-
-<div align="center">
-  <table style="width: 100%; max-width: 800px; border-collapse: collapse;">
-    <tr>
-      <th style="text-align: left; padding: 10px; border-bottom: 1px solid #eaeaea;">Repository</th>
-      <th style="text-align: left; padding: 10px; border-bottom: 1px solid #eaeaea;">Description</th>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #eaeaea;">
-        <a href="https://github.com/hayoko2006/Fileupload" style="text-decoration: none; color: #36BCF7; font-weight: bold;">Fileupload</a>
-      </td>
-      <td style="padding: 10px; border-bottom: 1px solid #eaeaea;">An open-source PHP-based file upload system that can be used as a simple cloud storage or backup tool. Originally designed for internal company document scanning and archiving.</td>
-    </tr>
-  </table>
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://github.com/hayoko2006" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  <a href="https://github.com/hayoko2006">
+    <img src="https://img.shields.io/badge/GitHub-hayoko2006-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:hayoko@hayoko.cn" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://hayoko.cn">
+    <img src="https://img.shields.io/badge/主页-hayoko.cn-3182ce?style=flat&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://hayoko.cn" target="_blank">
-    <img src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://blog.hayoko.cn">
+    <img src="https://img.shields.io/badge/博客-blog.hayoko.cn-e53e3e?style=flat&logo=rss&logoColor=white" />
   </a>
-  <a href="https://blog.hayoko.cn" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <a href="mailto:hayoko@hayoko.cn">
+    <img src="https://img.shields.io/badge/邮箱-hayoko@hayoko.cn-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-## 📄 License
-
-This profile README is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/hayoko2006?template=classic&config.timezone=Asia%2FShanghai" />
-</div>
+</p>
