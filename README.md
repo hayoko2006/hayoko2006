@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hayoko2006&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=4a5568&icon_color=3182ce&bg_color=transparent&include_all_commits=true" />
-
 </div>
 
 ## Hi, I'm 何柚可 (Hayoko)
