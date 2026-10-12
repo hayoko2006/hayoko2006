@@ -2,7 +2,7 @@
 
 </div>
 
-## Hi, I'm 何柚可 (Hayoko)
+## Hi, I'm 何欣雨 (Hayoko)
 
 开源爱好者，FreeBSD 中文社区成员。从前端开发到服务器运维，用技术解决实际问题。热爱 FreeBSD、Web 开发和开源生态。
 
@@ -17,7 +17,7 @@
   <tr>
     <td width="50%">
       <h3>🔧 hayoko-manual</h3>
-      <p>柚可万能机使用说明书 — 高速直球版人类设备的产品文档</p>
+      <p>欣雨万能机使用说明书 — 高速直球版人类设备的产品文档</p>
       <a href="https://github.com/hayoko2006/hayoko-manual">查看项目 →</a>
     </td>
     <td width="50%">
